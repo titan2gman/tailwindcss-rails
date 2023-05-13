@@ -144,3 +144,4 @@ Nothing. But we're promote 0.5.4 to 1.0.0 to go along with the final release of 
 * Match button label for destroy with text used by regular Rails templates by [@dhh](https://github.com/dhh)
 
 
+--------------------
